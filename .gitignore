@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store
+.venv/
+venv/
+env/
+results/
+outputs/
+logs/
+*.log
+*.tmp
+*.bak
+results_gantt.csv
+results_wip.csv
+delay_breakdown.csv
